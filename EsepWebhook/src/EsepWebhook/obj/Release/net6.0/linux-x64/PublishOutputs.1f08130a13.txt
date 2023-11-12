@@ -1,0 +1,7 @@
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/home/esteban/Desktop/school/fall2023/swe/eventDrivenArchitecture/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
